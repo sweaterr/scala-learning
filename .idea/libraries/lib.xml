@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar:///daum/program/scala-2.10.3/lib/scala-compiler.jar!/" />
+      <root url="jar:///daum/program/scala-2.10.3/lib/scala-library.jar!/" />
+      <root url="jar:///daum/program/scala-2.10.3/lib/scala-reflect.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
